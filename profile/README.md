@@ -1,7 +1,7 @@
 # MEMOTIONS : Mental Wellness Application
 
 <div align="center">
-<img src="../assets/memotions.png" width="50%" height="50%" >
+<img src="../assets/memotions_logo.png" width="50%" height="50%" >
 </div>
 
 ## About
@@ -23,7 +23,7 @@ Memotions is a mental wellness app designed to support Indonesian users of all a
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development | [Github](https://github.com/memotions/memotions-android) |
-|  Cloud Computing  | [Backend Services](https://github.com/memotions/memotions-backend-service) \| [ML Services](https://github.com/memotions/memotions-ml-service) \| [ Game Services](https://github.com/memotions/memotions-game-service)  |
+|  Cloud Computing  | [Backend Services](https://github.com/memotions/backend-service) \| [ML Services](https://github.com/memotions/ml-service) 
 |   Machine Learning  | [Github](https://github.com/memotions/memotions-machine-learning)  |
 
 ## Project Documents
