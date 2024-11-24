@@ -11,7 +11,7 @@ Memotions is a mental wellness app designed to support Indonesian users of all a
 
 | ID           | Name                                | Learning Path | Profile |
 | :------------: | ----------------------------------- | :--------------: | :-------: |
-| A014B4KY1828   |  I Putu Liangga Ristiana Putra                      | MD             |    [LianggaRistiana](https://github.com/LianggaRistiana)    |
+| A014B4KY1881   |  I Putu Liangga Ristiana Putra                      | MD             |    [LianggaRistiana](https://github.com/LianggaRistiana)    |
 | A014B4KY1828   |  I Gusti Ngurah Putu Astrawan                 | MD             |    [WahtuAstrawan](https://github.com/WahtuAstrawan)     |
 | M014B4KY1863    |  I Nengah Danarsa Suniadevta              | ML             |    [⁠devtadanarsa](https://github.com/devtadanarsa)     |
 | M014B4KY2895   | Muhammad Ibrahim     | ML             |    [MuhIbrahimm](https://github.com/MuhIbrahimm)     |
