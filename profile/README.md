@@ -7,15 +7,16 @@
 ## About
 Memotions is a mobile journaling application designed to support mental wellness, combining journaling, machine learning, and gamification features like streaks and achievements. The app enables daily journaling with emotion analysis, helping users track emotional patterns and gain valuable insights into their well-being. With early awareness and timely guidance, Memotions empowers you to take control of your mental health journey. Leveraging machine learning and generative AI, it delivers personalized feedback to enhance self-awareness and build emotional resilience..
 
+
 ## Application Preview
 <div align="center">
 <img src="../assets/memotions_preview.png" width="100%">
 </div>
 <br>
 <p align="center">
-   <a href="#"><img src="https://img.shields.io/badge/Download%20Now-eee9e5?style=for-the-badge&logo=android&logoColor=black"/></a>
+   <a href="https://github.com/memotions/android/releases/download/v1.0.0/memotions.apk"><img src="https://img.shields.io/badge/Download%20Now-eee9e5?style=for-the-badge&logo=android&logoColor=black"/></a>
    &nbsp;&nbsp;
-   <a href="#"><img src="https://img.shields.io/badge/Explore%20More-eee9e5?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
+   <a href="https://memotions.tech"><img src="https://img.shields.io/badge/Explore%20More-eee9e5?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
 </p>
 
 
