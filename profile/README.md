@@ -49,5 +49,5 @@ Memotions is a mobile journaling application designed to support mental wellness
 
 ## Project Documents
 - [Project Plan](https://docs.google.com/document/d/1vp7IpwWrNyyLlHBM-NFVTOaxSzeX_whDYoKgQ1q90Zw/edit?usp=sharing)
-- [Project Brief]()
-- [Presentation Videos]()
+- [Project Brief](https://docs.google.com/document/d/1mbqiLA9h-8nDD4QHh9kwYKXhBw_ZQY2Vi3YSyfGFwUY/edit?usp=sharing)
+- [Presentation Videos](https://youtu.be/4kTNtp3y2UQ)
